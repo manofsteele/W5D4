@@ -1,0 +1,16 @@
+/* PHASE 4: Footer */
+footer {
+  display: flex;
+  justify-content: space-between;
+  width: 900px;
+  margin: 0 auto;
+  height: 50px;
+  border: 1px solid grey;
+  border-top: 0;
+  background: #eee;
+}
+
+footer li {
+  display: inline;
+  padding-left: 10px;
+}
